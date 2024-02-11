@@ -56,7 +56,7 @@ cd CodeSpot-clone
 
 **Clone Website**
 
-![App Screenshot](clone.jpg)
+![App Screenshot](clone.JPG)
 
 
 
