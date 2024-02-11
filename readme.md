@@ -33,7 +33,7 @@ git clone https://github.com/Athrudev/CodeSpot-clone.git
 
 2.	Navigate to the project directory: 
 Bash
-cd spaincollection-clone
+cd CodeSpot-clone
 
 
 ```bash
